@@ -1,0 +1,14 @@
+.tab-panel {
+  width: 100%;
+  height: calc(100vh - 200px);
+  .real-estate-info {
+    .real-estate-form {
+      label {
+        margin-right: 100px;
+      }
+      input {
+        width: 200px;
+      }
+    }
+  }
+}
